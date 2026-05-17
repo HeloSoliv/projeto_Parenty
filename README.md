@@ -189,6 +189,11 @@ Desenvolvido como projeto acadêmico de desenvolvimento de software com propósi
 
 [https://github.com/seu-usuario/parenty](https://github.com/seu-usuario/parenty)
 
+
+## Link do Vercel
+
+https://projeto-parenty.vercel.app
+
 ---
 
 ## Licença
